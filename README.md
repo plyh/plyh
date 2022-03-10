@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -52,4 +52,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=plyh&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+| ![Most Used Languages](https://github-readme-stats-green-theta.vercel.app/api/top-langs/?username=plyh&layout=compact&bg_color=transparent&title_color=0033cc&hide_border=1&langs_count=10) | ![GitHub Stats](https://github-readme-stats-green-theta.vercel.app/api?username=plyh&show_icons=true&count_private=true&hide_title=true&bg_color=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&hide_border=1&line_height=33) |
+|:-----:|:-----:|
